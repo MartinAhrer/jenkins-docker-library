@@ -47,5 +47,6 @@ fabric.properties
 ### Project
 .idea/
 *.iml
-gradle/
+.gradle/
 build/
+!gradle/wrapper/gradle-wrapper.jar
